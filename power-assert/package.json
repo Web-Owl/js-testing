@@ -1,0 +1,17 @@
+{
+  "name": "power-assert",
+  "version": "1.0.0",
+  "main": "lesson.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "intelli-espower-loader": "^1.1.0",
+    "power-assert": "^1.6.1"
+  }
+}
